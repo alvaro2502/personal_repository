@@ -19,7 +19,7 @@ Si introducimos un id de cliente que no existe en la base de datos, nos avisará
 // Ruta donde se genera el fichero resultado //
 
 El fichero resultado de la ejecución del programa se generará en la carpeta raiz donde coloques el archivo ejecutable jar.
-Por ejemplo: Si tenemos el jar en "C:/Usuarios/usuario/Nueva Carpeta", el fichero se generará en esa misma carpeta "C:/Usuarios/usuario/Nueva Carpeta/programa.jar"
+Por ejemplo: Si tenemos el jar en "C:/Usuarios/usuario/Nueva Carpeta", el fichero se generará en esa misma carpeta "C:/Usuarios/usuario/Nueva Carpeta/proveedores5.txt"
 
 // Dependencias //
 
