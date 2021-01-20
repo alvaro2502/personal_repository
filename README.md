@@ -9,7 +9,7 @@ Proyecto prueba IBM
 3. Dirijase a la ubicación del archivo descargado "programa.jar" mediante comandos.
 4. Ejecute el comando "java -jar programa.jar {{parametro}}"
 
-El campo parámetro descrito arriba será un número entero que representa el código de cliente. Cualquier caracter introducido dará un error y
+El campo parámetro descrito arriba será un número entero que representa el código de cliente. Cualquier caracter no numérico introducido dará un error y
 se tendrá que volver a ejecutar el programa.
 
 El programa generará un fichero de texto plano con el nombre "proveedores[numero].txt", donde número será el id de cliente que hemos introducido para la ejecución del programa
